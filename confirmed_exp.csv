@@ -1,0 +1,235 @@
+Country,Confirmed_exp
+Andorra,False
+United Arab Emirates,True
+Afghanistan,False
+Antigua and Barbuda,False
+Anguilla,False
+Albania,True
+Armenia,True
+Angola,True
+Argentina,True
+American Samoa,False
+Austria,False
+Australia,False
+Aruba,False
+Azerbaijan,True
+Bosnia and Herzegovina,True
+Barbados,True
+Bangladesh,True
+Belgium,False
+Burkina Faso,True
+Bulgaria,False
+Bahrain,True
+Burundi,False
+Benin,False
+Bermuda,False
+Brunei,False
+Bolivia,False
+Caribbean Netherlands,False
+Brazil,True
+Bahamas,True
+Bhutan,True
+Botswana,True
+Belarus,False
+Belize,True
+Canada,True
+Democratic Republic of the Congo,False
+Central African Republic,False
+Republic of the Congo,False
+Switzerland,False
+Ivory Coast,False
+Cook Islands,False
+Chile,False
+Cameroon,False
+China,False
+Colombia,True
+Costa Rica,True
+Cuba,True
+Cape Verde,True
+Curaçao,True
+Cyprus,False
+Czech Republic,True
+Germany,False
+Djibouti,False
+Denmark,False
+Dominica,False
+Dominican Republic,True
+Algeria,True
+Ecuador,True
+Estonia,False
+Egypt,False
+Eritrea,True
+Ethiopia,True
+Finland,False
+Falkland Islands,False
+Micronesia,False
+Faroe Islands,False
+France,True
+Gabon,False
+United Kingdom,False
+Georgia,True
+French Guiana,False
+Guernsey,False
+Ghana,False
+Gibraltar,False
+Greenland,False
+Gambia,False
+Guinea,True
+Equatorial Guinea,False
+Greece,True
+Guatemala,True
+Guam,True
+Guinea-Bissau,False
+Guyana,True
+Honduras,True
+Croatia,True
+Haiti,False
+Hungary,True
+Indonesia,True
+Ireland,False
+Israel,True
+Isle of Man,False
+India,True
+Iraq,False
+Iran,True
+Iceland,False
+Italy,False
+Jersey,False
+Jamaica,True
+Jordan,True
+Japan,True
+Kenya,True
+Kyrgyzstan,False
+Cambodia,False
+Comoros,False
+Saint Kitts and Nevis,False
+North Korea,False
+South Korea,False
+Kuwait,True
+Cayman Islands,False
+Kazakhstan,False
+Laos,False
+Lebanon,True
+Saint Lucia,False
+Liechtenstein,False
+Sri Lanka,False
+Liberia,False
+Lesotho,False
+Lithuania,True
+Luxembourg,False
+Latvia,False
+Libya,True
+Morocco,True
+Monaco,True
+Moldova,True
+Montenegro,True
+Madagascar,False
+Macedonia,True
+Mali,False
+Myanmar,True
+Mongolia,False
+Northern Mariana Islands,True
+Martinique,True
+Mauritania,False
+Montserrat,False
+Malta,True
+Mauritius,False
+Maldives,True
+Malawi,False
+Mexico,True
+Malaysia,False
+Mozambique,True
+New Caledonia,False
+Niger,False
+Nigeria,False
+Nicaragua,False
+Netherlands,True
+Norway,False
+Nepal,True
+Niue,False
+New Zealand,False
+Oman,False
+Panama,True
+Peru,True
+French Polynesia,True
+Papua New Guinea,False
+Philippines,True
+Pakistan,False
+Poland,True
+Pitcairn Islands,False
+Puerto Rico,True
+Palestine,True
+Portugal,False
+Palau,False
+Paraguay,True
+Qatar,False
+Réunion,True
+Romania,True
+Serbia,True
+Russia,True
+Rwanda,False
+Saudi Arabia,False
+Solomon Islands,True
+Seychelles,False
+Sudan,False
+Sweden,True
+Singapore,False
+Saint Helena,False
+Slovenia,True
+Slovakia,True
+Sierra Leone,False
+San Marino,False
+Senegal,False
+Somalia,False
+Suriname,False
+South Sudan,False
+São Tomé and Príncipe,False
+El Salvador,False
+Sint Maarten,True
+Syria,True
+Swaziland,False
+Turks and Caicos Islands,False
+Chad,False
+Togo,True
+Thailand,False
+Tajikistan,False
+East Timor,False
+Turkmenistan,False
+Tunisia,True
+Turkey,True
+Trinidad and Tobago,False
+Taiwan,False
+Tanzania,False
+Ukraine,True
+Uganda,True
+United States of America,True
+Uruguay,True
+Uzbekistan,True
+Vatican City,False
+Saint Vincent and the Grenadines,True
+Venezuela,True
+British Virgin Islands,False
+United States Virgin Islands,False
+Vietnam,False
+Vanuatu,False
+Yemen,False
+Mayotte,True
+South Africa,False
+Zambia,False
+Zimbabwe,False
+Spain,True
+Fiji,False
+Grenada,False
+Kiribati,False
+Marshall Islands,False
+Namibia,False
+Nauru,False
+Tokelau,False
+Tonga,False
+Tuvalu,False
+Wallis and Futuna,False
+Samoa,False
+Kosovo,True
+Hong Kong,False
+Macau,False
+Western Sahara,False
